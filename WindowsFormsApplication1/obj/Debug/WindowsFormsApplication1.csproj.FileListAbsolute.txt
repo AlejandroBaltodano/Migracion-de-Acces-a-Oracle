@@ -1,0 +1,12 @@
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

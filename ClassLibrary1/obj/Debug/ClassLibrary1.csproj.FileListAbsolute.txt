@@ -1,0 +1,7 @@
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\creyes\documents\visual studio 2015\Projects\PruebaOracle\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
