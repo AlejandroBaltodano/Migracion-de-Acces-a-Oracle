@@ -19,6 +19,9 @@ Por ejemplo:
 string cadena = "Begin ";
 cadena += "Datos extraidos de la datatable, aqui utilizo el metodo ConstructuraSQL";
 cadena += "end;"
+ 
+ Pero el proceso de obtener los datos de una query de Acces y la tabla en esta base de datos, lo realiza el metodo MigracionAO, que es el
+ encargado de recibir como parametro las query y nombre de la tabla para extraer los datos en Acces y meterlos en el dataset, luego este metodo me invoca el metodo ConsturcturaSQL para poder armar el procedimiento insert para oracle y asi migrar los datos de acces a oracle.
 
 Ya teniendo el procedimiento nada mas lo ejecuto desde la aplicacion con los metodos creados en la clase ConexionOracle, donde realizo los
 diferentes procesos dml.
