@@ -23,4 +23,4 @@ cadena += "end;"
 Ya teniendo el procedimiento nada mas lo ejecuto desde la aplicacion con los metodos creados en la clase ConexionOracle, donde realizo los
 diferentes procesos dml.
 
-presione [aqui]{https://mail.google.com/mail/u/0/#inbox}
+presione [aqui][https://mail.google.com/mail/u/0/#inbox]
