@@ -27,3 +27,4 @@ Ya teniendo el procedimiento nada mas lo ejecuto desde la aplicacion con los met
 diferentes procesos dml.
 
 Ver el siguiente link para entrar a la pagina del proyecto 
+Ademas ver el manual de la aplicacion de la aplicacion.
